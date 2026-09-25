@@ -409,6 +409,8 @@ ProductSpec -> Engineering Spec -> Tasks -> Code -> Evaluation -> Learning
 
 ## Ecosystem
 
+- [MySpec](https://myspec.dev) — Interactive spec discovery engine compiling guided developer interviews into deterministic 4-file specification bundles (`constitution.md`, `requirements.md`, `solution.md`, `tasks.md`) with Model Context Protocol (MCP) server integration.
+
 ProductSpec is meant to be implemented by many tools.
 
 Current repo artifacts:
